@@ -1,0 +1,31 @@
+.header {
+    background-color: rgba(248, 249, 65, 0.95);
+    height: 100px;
+}
+
+.body {
+width: 50%;
+margin: auto;
+font-family: sans-serif;
+}
+
+form div {
+    margin-bottom: 10px;
+}
+
+form input[name="submit"] {
+    background-color: #d65600;
+    color: #fff;
+    padding: 10px;
+    border-radius: 13px;
+    border-color: #ff3f00;
+    cursor: pointer;
+}
+
+div.error {
+    background-color: #f75f5f;
+    color: #fff;
+    padding: 10px;
+    border: 1px solid #dd0000;
+}
+
